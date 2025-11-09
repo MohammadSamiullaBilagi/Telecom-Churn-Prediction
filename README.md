@@ -56,4 +56,3 @@ For questions or contributions, please open an issue or submit a pull request.
 
 ---
 
-This README provides a comprehensive overview suitable for sharing on GitHub to document your telecom churn prediction project clearly and professionally.
